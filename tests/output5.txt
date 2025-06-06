@@ -1,0 +1,30 @@
+RM
+SCHEDULABLE
+U = 0.833
+UB = 0.780
+HYPERPERIOD = 24
+
+0 Task2
+1 Task2
+2 Task1
+3 
+4 Task3
+5 Task3
+6 Task1
+7 Task2
+8 Task2
+9 
+10 Task1
+11 
+12 Task2
+13 Task2
+14 Task1
+15 Task3
+16 Task3
+17 
+18 Task1
+19 Task2
+20 Task2
+21 Task3
+22 Task1
+23 Task3
