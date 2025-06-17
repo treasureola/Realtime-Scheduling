@@ -1,4 +1,4 @@
-## MP2 | Real-Time Schedulers
+## Real-Time Schedulers
 
 In this MP, you will implement scheduling simulators for the two most common _single core_ real-time scheduling algorithms [^1]:
 
@@ -9,7 +9,6 @@ In this MP, you will implement scheduling simulators for the two most common _si
 - [Definitions and Theory](#definitions-and-theory)
 - [References](#references)
 - [Objective](#objective)
-- [Submission](#submission-and-gradin-rubric)
 
 ## Definitions and Theory
 A real-time task, $\tau_i$ is defined using the following parameters: $(\phi_i, p_i, c_i, d_i)$ where,
