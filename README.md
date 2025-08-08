@@ -1,6 +1,6 @@
 ## Real-Time Schedulers
 
-In this MP, you will implement scheduling simulators for the two most common _single core_ real-time scheduling algorithms [^1]:
+Implementing scheduling simulators for the two most common _single core_ real-time scheduling algorithms [^1]:
 
 1. Rate-Monotone (RM), a fixed-priority scheduler and
 2. Earliest Deadline First (EDF), a dynamic priority scheduler 
